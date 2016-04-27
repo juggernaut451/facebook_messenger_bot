@@ -1,0 +1,10 @@
+{
+  "name": "fbbot",
+  "version": "0.0.2",
+  "main":"app.js",
+  "dependencies": {
+    "messenger-bot": "^2.1.0",
+    "nodemon": "^1.9.1",
+    "request": "^2.72.0"
+  }
+}
